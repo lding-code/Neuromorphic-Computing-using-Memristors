@@ -24,4 +24,8 @@
 
 ## SNN simulators
 
-* Yu Ji - NEUTRAMS Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints
+* Nasir - Spike A GPU Optimised Spiking Neural Network
+
+* Alibaba Lixue Xia 2018 -  MNSIM Simulation Platform for Memristor-Based Neuromorphic Computing System
+
+* Alibaba Lixue Xia 2018 -  MNSIM Simulation Platform for Memristor-Based Neuromorphic Computing System
